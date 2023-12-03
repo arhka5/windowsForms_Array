@@ -1,0 +1,10 @@
+D:\Programacion\cpp\G16_interfazArray\G16_interfazArray\G16_interfazArray\bin\Debug\G16_interfazArray.exe.config
+D:\Programacion\cpp\G16_interfazArray\G16_interfazArray\G16_interfazArray\bin\Debug\G16_interfazArray.exe
+D:\Programacion\cpp\G16_interfazArray\G16_interfazArray\G16_interfazArray\bin\Debug\G16_interfazArray.pdb
+D:\Programacion\cpp\G16_interfazArray\G16_interfazArray\G16_interfazArray\obj\Debug\G16_interfazArray.csproj.AssemblyReference.cache
+D:\Programacion\cpp\G16_interfazArray\G16_interfazArray\G16_interfazArray\obj\Debug\G16_interfazArray.G16_interfazArray.resources
+D:\Programacion\cpp\G16_interfazArray\G16_interfazArray\G16_interfazArray\obj\Debug\G16_interfazArray.Properties.Resources.resources
+D:\Programacion\cpp\G16_interfazArray\G16_interfazArray\G16_interfazArray\obj\Debug\G16_interfazArray.csproj.GenerateResource.cache
+D:\Programacion\cpp\G16_interfazArray\G16_interfazArray\G16_interfazArray\obj\Debug\G16_interfazArray.csproj.CoreCompileInputs.cache
+D:\Programacion\cpp\G16_interfazArray\G16_interfazArray\G16_interfazArray\obj\Debug\G16_interfazArray.exe
+D:\Programacion\cpp\G16_interfazArray\G16_interfazArray\G16_interfazArray\obj\Debug\G16_interfazArray.pdb
